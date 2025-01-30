@@ -1,5 +1,5 @@
 # Simple React JS Project
-Hi guys i am Viswas
+Hi guys 
 ## What is the use of this Repo
 
 This Project is a Simple ReactJS Project which demonstrates the following
